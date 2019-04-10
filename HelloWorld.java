@@ -37,6 +37,6 @@ public class HelloWorld {
     System.out.println("Hello, World");
 	System.out.println("Hi all!!!");
 	System.out.println("How are you?");
-	//System.out.println("We are fine, thank you!");
+	System.out.println("We are fine, thank you!");
   }
 }
